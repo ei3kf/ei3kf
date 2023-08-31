@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ei3kf
+- I am a licenced radio amateur since 1990 using ft8 on 10M and 60M
 - 👀 I’m interested in AWS and Python and automating what I can...
 - 🌱 I’m currently learning all the time.
 
